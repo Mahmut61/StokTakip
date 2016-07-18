@@ -1,0 +1,15 @@
+C:\Users\student\Desktop\ECEM\wfStokTakibi\wfStokTakibi\bin\Debug\wfStokTakibi.exe.config
+C:\Users\student2\Documents\MS-YAZ-8\wfStokTakibi\wfStokTakibi\bin\Debug\wfStokTakibi.exe.config
+C:\Users\student2\Documents\MS-YAZ-8\wfStokTakibi\wfStokTakibi\bin\Debug\wfStokTakibi.exe
+C:\Users\student2\Documents\MS-YAZ-8\wfStokTakibi\wfStokTakibi\bin\Debug\wfStokTakibi.pdb
+C:\Users\student2\Documents\MS-YAZ-8\wfStokTakibi\wfStokTakibi\obj\Debug\wfStokTakibi.csprojResolveAssemblyReference.cache
+C:\Users\student2\Documents\MS-YAZ-8\wfStokTakibi\wfStokTakibi\obj\Debug\wfStokTakibi.AnaSayfa.resources
+C:\Users\student2\Documents\MS-YAZ-8\wfStokTakibi\wfStokTakibi\obj\Debug\wfStokTakibi.Properties.Resources.resources
+C:\Users\student2\Documents\MS-YAZ-8\wfStokTakibi\wfStokTakibi\obj\Debug\wfStokTakibi.UrunIslemleri.resources
+C:\Users\student2\Documents\MS-YAZ-8\wfStokTakibi\wfStokTakibi\obj\Debug\wfStokTakibi.csproj.GenerateResource.Cache
+C:\Users\student2\Documents\MS-YAZ-8\wfStokTakibi\wfStokTakibi\obj\Debug\wfStokTakibi.exe
+C:\Users\student2\Documents\MS-YAZ-8\wfStokTakibi\wfStokTakibi\obj\Debug\wfStokTakibi.pdb
+C:\Users\student2\Documents\MS-YAZ-8\wfStokTakibi\wfStokTakibi\obj\Debug\wfStokTakibi.CariSorgulama.resources
+C:\Users\student2\Documents\MS-YAZ-8\wfStokTakibi\wfStokTakibi\obj\Debug\wfStokTakibi.CariIslemleri.resources
+C:\Users\student2\Documents\MS-YAZ-8\wfStokTakibi\wfStokTakibi\obj\Debug\wfStokTakibi.KasaIslemleri.resources
+C:\Users\student2\Documents\MS-YAZ-8\wfStokTakibi\wfStokTakibi\obj\Debug\wfStokTakibi.CariEkstre.resources
